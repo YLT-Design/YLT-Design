@@ -91,7 +91,10 @@ body {
 
 #mainNav .navbar-brand {
   color: #3fc1db;
+  /*!
   font-family: 'Raleway', sans-serif;
+*/
+  font-family: 'Libre Franklin', sans-serif;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
