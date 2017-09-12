@@ -234,7 +234,7 @@ portfolio category section
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgb(93, 199, 252)
+  background: #e6f0f2
 }
 
 #portfolio_category .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -399,7 +399,7 @@ actual portfolio section
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgb(93, 199, 252)
+  background: #e6f0f2
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -563,7 +563,7 @@ bath section
    -moz-transition: all ease .5s;
    transition: all ease .5s;
    opacity: 0;
-   background: rgb(93, 199, 252)
+   background: #e6f0f2
  }
 
  #bath .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -642,7 +642,7 @@ kitchen section
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgb(93, 199, 252)
+  background: #e6f0f2
 }
 
 #kitchen .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -721,7 +721,7 @@ sink section
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgb(93, 199, 252)
+  background: #e6f0f2
 }
 
 #sink .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -800,7 +800,7 @@ _3d scan and printing section
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgb(93, 199, 252)
+  background: #e6f0f2
 }
 
 #_3d .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -879,7 +879,7 @@ past work section
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgb(93, 199, 252)
+  background: #e6f0f2
 }
 
 #past .portfolio-item .portfolio-link .portfolio-hover:hover {
@@ -958,7 +958,7 @@ practice section
   -moz-transition: all ease .5s;
   transition: all ease .5s;
   opacity: 0;
-  background: rgb(93, 199, 252)
+  background: #e6f0f2
 }
 
 #practice .portfolio-item .portfolio-link .portfolio-hover:hover {
