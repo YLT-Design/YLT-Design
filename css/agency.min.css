@@ -226,7 +226,7 @@ portfolio category section
   -webkit-transition: all ease .5s;
   -moz-transition: all ease .5s;
   transition: all ease .5s;
-  opacity: 0;
+  opacity: 0.5;
   background: #3fc1db
 }
 
