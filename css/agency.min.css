@@ -231,7 +231,7 @@ portfolio category section
 }
 
 #portfolio_category .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 0.5
+  opacity: 0.75
 }
 
 #portfolio_category .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
