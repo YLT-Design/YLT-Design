@@ -231,7 +231,7 @@ portfolio category section
 }
 
 #portfolio_category .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 0.75
+  opacity: 0.8
 }
 
 #portfolio_category .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -396,7 +396,7 @@ actual portfolio section
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 1
+  opacity: 0.8
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -560,7 +560,7 @@ bath section
  }
 
  #bath .portfolio-item .portfolio-link .portfolio-hover:hover {
-   opacity: 1
+   opacity: 0.8
  }
 
  #bath .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -639,7 +639,7 @@ kitchen section
 }
 
 #kitchen .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 1
+  opacity: 0.8
 }
 
 #kitchen .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -718,7 +718,7 @@ sink section
 }
 
 #sink .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 1
+  opacity: 0.8
 }
 
 #sink .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -797,7 +797,7 @@ _3d scan and printing section
 }
 
 #_3d .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 1
+  opacity: 0.8
 }
 
 #_3d .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -876,7 +876,7 @@ past work section
 }
 
 #past .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 1
+  opacity: 0.8
 }
 
 #past .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -955,7 +955,7 @@ practice section
 }
 
 #practice .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 1
+  opacity: 0.8
 }
 
 #practice .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
