@@ -74,7 +74,7 @@ body {
 }
 
 #mainNav {
-  background-color: #222
+  background-color: #3a3a3a
 }
 
 #mainNav .navbar-toggler {
@@ -134,7 +134,7 @@ body {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #222
+    background-color: #3a3a3a
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -349,7 +349,7 @@ portfolio category section
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color: #222
+  background-color: #3a3a3a
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -359,7 +359,7 @@ portfolio category section
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
-  background-color: #222
+  background-color: #3a3a3a
 }
 
 .portfolio-modal .modal-backdrop {
@@ -514,7 +514,7 @@ actual portfolio section
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
-  background-color: #222
+  background-color: #3a3a3a
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -524,7 +524,7 @@ actual portfolio section
   -webkit-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   transform: rotate(90deg);
-  background-color: #222
+  background-color: #3a3a3a
 }
 
 .portfolio-modal .modal-backdrop {
@@ -1213,7 +1213,7 @@ practice section
 }
 
 section#contact {
-  background-color: #222;
+  background-color: #3a3a3a;
   background-image: url(../img/map-image.png);
   background-repeat: no-repeat;
   background-position: center
@@ -1314,7 +1314,7 @@ ul.social-buttons li a {
   color: #fff;
   border-radius: 100%;
   outline: 0;
-  background-color: #222
+  background-color: #3a3a3a
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
