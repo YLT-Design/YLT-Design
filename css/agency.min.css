@@ -14,11 +14,18 @@ p {
 }
 
 a {
+  /*!
+  * old blue color
   color: #5dc7fc
+  */
+  color: #e6f0f2
 }
 
 a.active, a:active, a:focus, a:hover {
+  /*!
   color: #13abf7
+  */
+  color: #65767a
 }
 
 h1, h2, h3, h4, h5, h6 {
