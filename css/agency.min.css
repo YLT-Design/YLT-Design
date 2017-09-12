@@ -18,7 +18,7 @@ a {
 }
 
 a.active, a:active, a:focus, a:hover {
-  color: #266370
+  color: #3f8a9b
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -95,7 +95,7 @@ body {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #266370
+  color: #3f8a9b
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -1337,19 +1337,19 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
   border-color: #b48b01;
-  background-color: #266370
+  background-color: #3f8a9b
 }
 
 .btn-primary:hover {
   color: #fff;
   border-color: #f6bf01;
-  background-color: #266370
+  background-color: #3f8a9b
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: #fff;
   border-color: #f6bf01;
-  background-color: #266370
+  background-color: #3f8a9b
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
@@ -1387,19 +1387,19 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .btn-xl.focus, .btn-xl:focus {
   color: #fff;
   border-color: #b48b01;
-  background-color: #266370
+  background-color: #3f8a9b
 }
 
 .btn-xl:hover {
   color: #fff;
   border-color: #f6bf01;
-  background-color: #266370
+  background-color: #3f8a9b
 }
 
 .btn-xl.active, .btn-xl:active, .open>.btn-xl.dropdown-toggle {
   color: #fff;
   border-color: #f6bf01;
-  background-color: #266370
+  background-color: #3f8a9b
 }
 
 .btn-xl.active.focus, .btn-xl.active:focus, .btn-xl.active:hover, .btn-xl:active.focus, .btn-xl:active:focus, .btn-xl:active:hover, .open>.btn-xl.dropdown-toggle.focus, .open>.btn-xl.dropdown-toggle:focus, .open>.btn-xl.dropdown-toggle:hover {
