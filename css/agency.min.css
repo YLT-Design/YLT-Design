@@ -226,12 +226,12 @@ portfolio category section
   -webkit-transition: all ease .5s;
   -moz-transition: all ease .5s;
   transition: all ease .5s;
-  opacity: 0.5;
+  opacity: 0;
   background: #3fc1db
 }
 
 #portfolio_category .portfolio-item .portfolio-link .portfolio-hover:hover {
-  opacity: 1
+  opacity: 0.5
 }
 
 #portfolio_category .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
