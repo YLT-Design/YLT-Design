@@ -162,7 +162,7 @@ header.mastheadportfolio {
       top: 0;
       left: 0;
       right: 0;
-      height: 100px; 
+      height: 100px;
 }
 
 header.masthead .intro-text {
@@ -1224,62 +1224,10 @@ practice section
 
 section#contact {
   background-color: #4f4f4f;
-  background-image: url(../img/map-image.png);
-  background-repeat: no-repeat;
-  background-position: center
 }
 
 section#contact .section-heading {
   color: #fff
-}
-
-section#contact .form-group {
-  margin-bottom: 25px
-}
-
-section#contact .form-group input, section#contact .form-group textarea {
-  padding: 20px
-}
-
-section#contact .form-group input.form-control {
-  height: auto
-}
-
-section#contact .form-group textarea.form-control {
-  height: 236px
-}
-
-section#contact .form-control:focus {
-  border-color: #3fc1db;
-  box-shadow: none
-}
-
-section#contact ::-webkit-input-placeholder {
-  font-weight: 700;
-  color: #eee;
-  font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-transform: uppercase
-}
-
-section#contact :-moz-placeholder {
-  font-weight: 700;
-  color: #eee;
-  font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-transform: uppercase
-}
-
-section#contact ::-moz-placeholder {
-  font-weight: 700;
-  color: #eee;
-  font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-transform: uppercase
-}
-
-section#contact :-ms-input-placeholder {
-  font-weight: 700;
-  color: #eee;
-  font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-transform: uppercase
 }
 
 section#contact .text-danger {
@@ -1321,10 +1269,10 @@ ul.social-buttons li a {
   -webkit-transition: all .3s;
   -moz-transition: all .3s;
   transition: all .3s;
-  color: #fff;
+  color: #4f4f4f;
   border-radius: 100%;
   outline: 0;
-  background-color: #4f4f4f
+  background-color: #fff
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
