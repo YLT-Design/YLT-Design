@@ -155,6 +155,16 @@ header.masthead {
   background-size: cover
 }
 
+header.mastheadportfolio {
+  text-align: center;
+  background-color: #4f4f4f;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 100px; 
+}
+
 header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px
