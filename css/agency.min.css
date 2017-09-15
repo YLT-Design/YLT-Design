@@ -1230,7 +1230,9 @@ practice section
 .team-member h6 {
   margin-top: 0px;
   margin-bottom: 8px;
+  font-size: 14px;
   font-weight: 100;
+  font-family: 'Roboto', sans-serif;
   text-transform: none;
   color: #c4c4c4;
 }
