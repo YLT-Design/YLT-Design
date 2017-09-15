@@ -1227,6 +1227,14 @@ practice section
   color: #666666;
 }
 
+.team-member h6 {
+  margin-top: 25px;
+  margin-bottom: 0;
+  font-size: 10px;
+  text-transform: none;
+  color: #808080;
+}
+
 .team-member p {
   margin-top: 0
 }
