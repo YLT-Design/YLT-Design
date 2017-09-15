@@ -1218,6 +1218,13 @@ practice section
   text-transform: none
 }
 
+.team-member h5 {
+  margin-top: 16px;
+  margin-bottom: 0;
+  text-transform: none;
+  color: #666666;
+}
+
 .team-member p {
   margin-top: 0
 }
