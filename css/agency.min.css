@@ -1219,8 +1219,9 @@ practice section
 }
 
 .team-member h5 {
-  margin-top: 16px;
+  margin-top: 25px;
   margin-bottom: 0;
+  font-size: 18px;
   text-transform: none;
   color: #666666;
 }
