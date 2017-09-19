@@ -787,14 +787,14 @@ sink section
 }
 
 /*!
-_3d scan and printing section
+threed scan and printing section
 */
-#_3d .portfolio-item {
+#threed .portfolio-item {
   right: 0;
   margin: 0 0 15px
 }
 
-#_3d .portfolio-item .portfolio-link {
+#threed .portfolio-item .portfolio-link {
   position: relative;
   display: block;
   max-width: 400px;
@@ -802,7 +802,7 @@ _3d scan and printing section
   cursor: pointer
 }
 
-#_3d .portfolio-item .portfolio-link .portfolio-hover {
+#threed .portfolio-item .portfolio-link .portfolio-hover {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -813,11 +813,11 @@ _3d scan and printing section
   background: #3fc1db
 }
 
-#_3d .portfolio-item .portfolio-link .portfolio-hover:hover {
+#threed .portfolio-item .portfolio-link .portfolio-hover:hover {
   opacity: 0.9
 }
 
-#_3d .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+#threed .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 20px;
   position: absolute;
   top: 50%;
@@ -828,15 +828,15 @@ _3d scan and printing section
   color: #fff
 }
 
-#_3d .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+#threed .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
   margin-top: -12px
 }
 
-#_3d .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3, #_3d .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#threed .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3, #threed .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
   margin: 0
 }
 
-#_3d .portfolio-item .portfolio-caption {
+#threed .portfolio-item .portfolio-caption {
   max-width: 400px;
   margin: 0 auto;
   padding: 25px;
@@ -844,23 +844,23 @@ _3d scan and printing section
   background-color: #fff
 }
 
-#_3d .portfolio-item .portfolio-caption h4 {
+#threed .portfolio-item .portfolio-caption h4 {
   margin: 0;
   text-transform: none
 }
 
-#_3d .portfolio-item .portfolio-caption p {
+#threed .portfolio-item .portfolio-caption p {
   font-size: 16px;
   margin: 0;
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif
 }
 
-#_3d * {
+#threed * {
   z-index: 2
 }
 
 @media (min-width:767px) {
-  #_3d .portfolio-item {
+  #threed .portfolio-item {
     margin: 0 0 30px
   }
 }
