@@ -1327,13 +1327,13 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .btn-primary:hover {
   color: #fff;
-  border-color: #f6bf01;
+  border-color: #4f4f4f;
   background-color: #3f8a9b
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
   color: #fff;
-  border-color: #f6bf01;
+  border-color: #4f4f4f;
   background-color: #3f8a9b
 }
 
@@ -1377,13 +1377,13 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .btn-xl:hover {
   color: #fff;
-  border-color: #f6bf01;
+  border-color: #4f4f4f;
   background-color: #3f8a9b
 }
 
 .btn-xl.active, .btn-xl:active, .open>.btn-xl.dropdown-toggle {
   color: #fff;
-  border-color: #f6bf01;
+  border-color: #4f4f4f;
   background-color: #3f8a9b
 }
 
