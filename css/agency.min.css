@@ -1321,7 +1321,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
-  border-color: #b48b01;
+  border-color: #4f4f4f;
   background-color: #3f8a9b
 }
 
@@ -1339,7 +1339,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
   color: #fff;
-  border-color: #b48b01;
+  border-color: #4f4f4f;
   background-color: #dcab01
 }
 
@@ -1371,7 +1371,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .btn-xl.focus, .btn-xl:focus {
   color: #fff;
-  border-color: #b48b01;
+  border-color: #4f4f4f;
   background-color: #3f8a9b
 }
 
@@ -1389,7 +1389,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .btn-xl.active.focus, .btn-xl.active:focus, .btn-xl.active:hover, .btn-xl:active.focus, .btn-xl:active:focus, .btn-xl:active:hover, .open>.btn-xl.dropdown-toggle.focus, .open>.btn-xl.dropdown-toggle:focus, .open>.btn-xl.dropdown-toggle:hover {
   color: #fff;
-  border-color: #b48b01;
+  border-color: #4f4f4f;
   background-color: #dcab01
 }
 
